@@ -1,1 +1,1 @@
-Aplicação FullStack de uma rede socia, utilizando conceitos de MERN
+Aplicação FullStack de uma rede social, utilizando conceitos de MERN
