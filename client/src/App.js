@@ -1,4 +1,4 @@
-import { BrowserRouter, Navigate, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import HomePage from 'scenes/homePage';
 import ProfilePage from 'scenes/profilePage';
 import LoginPage from 'scenes/loginPage';
