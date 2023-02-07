@@ -1,6 +1,32 @@
-Aplicação FullStack de uma rede social a Sociopedia
+#Sociopedia
+Este é um projeto de uma aplicação FullStack de uma rede social chamada Sociopedia. O projeto foi construído com as seguintes tecnologias:
 
-Utilizei React, Redux, Redux/Toolkit, MongoDB, Express, Node.js, Git e GitHub. É um projeto realizado em MERN e totalmente responsivo, ou seja, para o banco de dados foi utilizado o *M*ongoDB, para comunicação entre o frontend e o backend o *E*xpress, no desenvolvimento da interface utilizei a biblioteca *R*eact e para a conexão com o servidor o *N*ode.js.
+- React
+- Redux
+- Redux/Toolkit
+- MongoDB
+- Express
+- Node.js
+- Git
+- GitHub
+
+##Stack MERN
+O projeto é baseado no stack MERN, que significa MongoDB, Express, React e Node.js. Estas tecnologias foram utilizadas para construir a aplicação, do banco de dados ao frontend.
+
+##Banco de Dados
+Para armazenar os dados da aplicação, foi utilizado o MongoDB.
+
+##Comunicação Frontend-Backend
+A comunicação entre o frontend e o backend é feita através do Express.
+
+##Interface
+A interface da aplicação foi construída usando a biblioteca React, tornando-a responsiva e fácil de usar.
+
+##Conexão com o Servidor
+A conexão com o servidor é feita através do Node.js.
+
+##Contribuições
+Se você deseja contribuir para este projeto, sinta-se à vontade para criar um pull request no GitHub. Qualquer ajuda será bem-vinda!
 
 Veja um vídeo da aplicação:
 
